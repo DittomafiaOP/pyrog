@@ -59,4 +59,4 @@ def github():
         except GitCommandError:
             repo.git.reset("--hard", "FETCH_HEAD")
         install_req("pip3 install --no-cache-dir -r requirements.txt")
-        LOGGER("AltSpam").info(f"Fetched Updates From oxygen !")
+        LOGGER("AltSpam").info(f"Fetched Updates From stranger !")
