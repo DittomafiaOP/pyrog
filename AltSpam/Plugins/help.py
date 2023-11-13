@@ -21,7 +21,7 @@ __HELP__ = """
 def private_panel():
     buttons = [
         [
-            InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/BWANDARLOK"),
+            InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/mastiwithfriendsx"),
         ],
         [
             InlineKeyboardButton(text="Hᴇʟᴘ Mᴇɴᴜ", callback_data="home_help"),
@@ -32,10 +32,10 @@ def private_panel():
 
 TXT = f"ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴄᴀᴛᴇɢᴏʀʏ ғᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴɴᴀ ɢᴇᴛ ʜᴇʟᴩ !" 
 
-QA = "ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ OXY sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ \n\n\nᴄᴏᴘʏʀɪɢʜᴛ ʙʏ @BWANDARLOK\nᴄᴏᴅᴇ ʙʏ @PRADHAN474"
+QA = "ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ OXY sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ \n\n\nᴄᴏᴘʏʀɪɢʜᴛ ʙʏ @mastiwithfriendsx\nᴄᴏᴅᴇ ʙʏ @shiva_ansh_op"
 
 HMH = f"""
-™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 sᴘᴀᴍ ᴠᴇʀsɪᴏɴ : `{__Version__}`
+™°‌ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 sᴘᴀᴍ ᴠᴇʀsɪᴏɴ : `{__Version__}`
 ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : `{pyver.split()[0]}`
 ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ : `{pyrover}`
 
