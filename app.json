@@ -1,6 +1,6 @@
 {
-    "name": "𝐎𝐗𝐘𝐆𝐄𝐍 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓",
-    "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+    "name": "𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓",
+    "logo": "https://telegra.ph/file/038602f34ce054644b9a9.jpg",
     "keywords": ["telegram", "bot", "Altron"],
     "buildpacks": [{"url": "heroku/python"}],
     "env": {
