@@ -21,9 +21,9 @@ __HELP__ = """
 
 ALT = f"""
 ™°‌ 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 ᴠᴇʀsɪᴏɴ : `{__Version__}`
-ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : `{pyver.split()[0]}`
-ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ : `{pyrover}`
-ᴜᴘᴅᴀᴛᴇꜱ : @mastiwithfriendsx\n"""
+➪𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : `{pyver.split()[0]}`
+➪𝗣ʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ : `{pyrover}`
+➪𝗨ᴘᴅᴀᴛᴇꜱ : @mastiwithfriendsx\n"""
 
 
 @Client.on_message(filters.command(["ping"], ["/", ".", "!"]) & filters.user(SUDO_USERS))
